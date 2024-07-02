@@ -32,11 +32,11 @@
 ![ML](https://img.shields.io/badge/-ML-0D1117?style=for-the-badge&logo=machine-learning&labelColor=0D1117)&nbsp;
 ![RNN](https://img.shields.io/badge/-Redes_Neurais-0D1117?style=for-the-badge&logo=neural-networks&labelColor=0D1117)&nbsp;
 ![PLN](https://img.shields.io/badge/-PLN-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117)&nbsp;
-![Classification](https://img.shields.io/badge/-Classificação-0D1117?style=for-the-badge&logo=classification&labelColor=0D1117)&nbsp;
-![Regression](https://img.shields.io/badge/-Regressão-0D1117?style=for-the-badge&logo=regression&labelColor=0D1117)&nbsp;
-![Association](https://img.shields.io/badge/-Associação-0D1117?style=for-the-badge&logo=association&labelColor=0D1117)&nbsp;
-![Grouping](https://img.shields.io/badge/-Agrupamento-0D1117?style=for-the-badge&logo=clustering&labelColor=0D1117)&nbsp;
-![Summarization](https://img.shields.io/badge/-Sumarização-0D1117?style=for-the-badge&logo=summarization&labelColor=0D1117)&nbsp;
+![Classification](https://img.shields.io/badge/-Classification-0D1117?style=for-the-badge&logo=classification&labelColor=0D1117)&nbsp;
+![Regression](https://img.shields.io/badge/-Regression-0D1117?style=for-the-badge&logo=regression&labelColor=0D1117)&nbsp;
+![Association](https://img.shields.io/badge/-Association-0D1117?style=for-the-badge&logo=association&labelColor=0D1117)&nbsp;
+![Grouping](https://img.shields.io/badge/-Grouping-0D1117?style=for-the-badge&logo=clustering&labelColor=0D1117)&nbsp;
+![Summarization](https://img.shields.io/badge/-Summarization-0D1117?style=for-the-badge&logo=summarization&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
@@ -53,9 +53,9 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
 
 ### Studying at the moment:
-![Natural language processing](https://img.shields.io/badge/-Processamento%20de%20linguagem%20Natural-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Computer vision](https://img.shields.io/badge/-Visão%20Computacional-0D1117?style=for-the-badge&logo=computer-vision&labelColor=0D1117)&nbsp;
-![Predictive Models](https://img.shields.io/badge/-Modelos%20Preditivos-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Natural language processing](https://img.shields.io/badge/-Natural%20de%20Language%20Processing-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Computer vision](https://img.shields.io/badge/-Computer%20Vision-0D1117?style=for-the-badge&logo=computer-vision&labelColor=0D1117)&nbsp;
+![Predictive Models](https://img.shields.io/badge/-Predictive%20Models-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <br><p align="center"><b>Visitor Counter</b></p>  
