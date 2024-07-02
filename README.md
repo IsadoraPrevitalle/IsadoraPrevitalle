@@ -22,7 +22,7 @@
   </a>
 </div>
 
-### Principais habilidades:
+### Main skills:
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
@@ -30,15 +30,16 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=nosql&labelColor=0D1117)&nbsp;
 ![IA](https://img.shields.io/badge/-IA-0D1117?style=for-the-badge&logo=artificial-intelligence&labelColor=0D1117)&nbsp;
 ![ML](https://img.shields.io/badge/-ML-0D1117?style=for-the-badge&logo=machine-learning&labelColor=0D1117)&nbsp;
-![Redes Neurais](https://img.shields.io/badge/-Redes_Neurais-0D1117?style=for-the-badge&logo=neural-networks&labelColor=0D1117)&nbsp;
-![Classificação](https://img.shields.io/badge/-Classificação-0D1117?style=for-the-badge&logo=classification&labelColor=0D1117)&nbsp;
-![Regressão](https://img.shields.io/badge/-Regressão-0D1117?style=for-the-badge&logo=regression&labelColor=0D1117)&nbsp;
-![Associação](https://img.shields.io/badge/-Associação-0D1117?style=for-the-badge&logo=association&labelColor=0D1117)&nbsp;
-![Agrupamento](https://img.shields.io/badge/-Agrupamento-0D1117?style=for-the-badge&logo=clustering&labelColor=0D1117)&nbsp;
-![Sumarização](https://img.shields.io/badge/-Sumarização-0D1117?style=for-the-badge&logo=summarization&labelColor=0D1117)&nbsp;
+![RNN](https://img.shields.io/badge/-Redes_Neurais-0D1117?style=for-the-badge&logo=neural-networks&labelColor=0D1117)&nbsp;
 ![PLN](https://img.shields.io/badge/-PLN-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117)&nbsp;
+![Classification](https://img.shields.io/badge/-Classificação-0D1117?style=for-the-badge&logo=classification&labelColor=0D1117)&nbsp;
+![Regression](https://img.shields.io/badge/-Regressão-0D1117?style=for-the-badge&logo=regression&labelColor=0D1117)&nbsp;
+![Association](https://img.shields.io/badge/-Associação-0D1117?style=for-the-badge&logo=association&labelColor=0D1117)&nbsp;
+![Grouping](https://img.shields.io/badge/-Agrupamento-0D1117?style=for-the-badge&logo=clustering&labelColor=0D1117)&nbsp;
+![Summarization](https://img.shields.io/badge/-Sumarização-0D1117?style=for-the-badge&logo=summarization&labelColor=0D1117)&nbsp;
 
-### Ferramentas:
+
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
@@ -51,13 +52,13 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
 
-### Estudando no momento:
-![Processamento de linguagem Natural](https://img.shields.io/badge/-Processamento%20de%20linguagem%20Natural-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Visão Computacional](https://img.shields.io/badge/-Visão%20Computacional-0D1117?style=for-the-badge&logo=computer-vision&labelColor=0D1117)&nbsp;
-![Modelos Preditivos](https://img.shields.io/badge/-Modelos%20Preditivos-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Studying at the moment:
+![Natural language processing](https://img.shields.io/badge/-Processamento%20de%20linguagem%20Natural-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Computer vision](https://img.shields.io/badge/-Visão%20Computacional-0D1117?style=for-the-badge&logo=computer-vision&labelColor=0D1117)&nbsp;
+![Predictive Models](https://img.shields.io/badge/-Modelos%20Preditivos-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<br><p align="center"><b>Contador de Visitantes</b></p>  
+<br><p align="center"><b>Visitor Counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsadoraPrevitalle}/count.svg" /></p> 
 <br></div>
 
