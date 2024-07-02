@@ -53,7 +53,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
 
 ### Studying at the moment:
-![Natural language processing](https://img.shields.io/badge/-Natural%20de%20Language%20Processing-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Natural language processing](https://img.shields.io/badge/-Natural%20Language%20Processing-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Computer vision](https://img.shields.io/badge/-Computer%20Vision-0D1117?style=for-the-badge&logo=computer-vision&labelColor=0D1117)&nbsp;
 ![Predictive Models](https://img.shields.io/badge/-Predictive%20Models-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
 
